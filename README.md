@@ -11,3 +11,6 @@ Each turn, a player repeatedly rolls a die until either a 1 is rolled or the pla
 The first player to score 21 or more points wins.
 
 <img width="1276" alt="gameplay" src="https://user-images.githubusercontent.com/34731628/52539024-922f1d80-2d47-11e9-953c-29b554b5f2ba.png">
+
+## Future
+* Implementing playing cards and work on "Blackjack" gameplay
